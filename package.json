@@ -1,0 +1,10 @@
+{
+  "name": "worldsip",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WorldSip beverage discovery storefront",
+  "scripts": {
+    "dev": "npx serve .",
+    "preview": "npx serve ."
+  }
+}
